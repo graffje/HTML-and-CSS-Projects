@@ -1,0 +1,13 @@
+table {
+	border: 2px solid gold;
+}
+
+td:hover {
+	background-color: crimson;
+	color: ivory;
+}
+
+tr, th {
+	background-color: cornsilk;
+	color: maroon;
+}
